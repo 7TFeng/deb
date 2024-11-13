@@ -14,3 +14,20 @@ Description: Safari Essential Features
 Author: 0xkuj
 Name: SafariX
 
+Package: com.appaze3.cn
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: null
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.appaze3.cn_1.0_iphoneos-arm64.deb
+Size: 7552
+MD5sum: f55164538db8b8e0dca533a7b0224a7e
+SHA1: 7275c8469130160a463d9505ad7aad233e7df842
+SHA256: 40bf033d92772a371ad815533b6b6a0707f7b8e2e4b8ab48f3e2c571123b5c26
+Section: 汉化
+Description: Appaze 3 简体中文包。
+Author: 妖刀
+Name: Appaze 3 简体中文包
+
+
+
