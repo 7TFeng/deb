@@ -30,4 +30,25 @@ Author: 妖刀
 Name: Appaze 3 简体中文包
 
 
+Package: cn.octoforce.squidextender
+Version: 2.3.0
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 10232
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./cn.octoforce.squidextender_2.3.0_iphoneos-arm64.deb
+Size: 2275154
+MD5sum: a0e006e0a305db1b40ed888dfa8ebe67
+SHA1: a2daec43a9796e98a1659040d68470d94f9ec0fa
+SHA256: cc362311448dab6b028d79aa66bfb76a6d35b8772a27d196f4acf277a47a2517
+Section: 自用备份
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+
+
+
 
