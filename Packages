@@ -1,0 +1,16 @@
+Package: com.0xkuj.safarix
+Version: 1.9.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 792
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./SafariX.1.9.0.deb
+Size: 286640
+MD5sum: e799251ec79836781270bc5a2388da78
+SHA1: f8a86a8953a94f8111397a2aa629e6d517b3a102
+SHA256: b6c6ec9bccc4972cfd02336479c40ebca2a6d97119b472ee47197f5a5717d928
+Section: Tweaks
+Description: Safari Essential Features
+Author: 0xkuj
+Name: SafariX
+
